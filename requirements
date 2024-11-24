@@ -1,0 +1,25 @@
+Parking lot
+
+requirement:
+
+1. create table for parking lot(max limit 10 for each)
+    1. driver Name
+    2. vehicle type
+    3. parking time start
+    4. end time
+    5. total price
+    6. vehicle number
+    7. print slip
+
+
+    fare table
+    1. vehicle type: two wheeler price/ four wheeler price
+    2. fare:
+
+
+    note:
+    2 wheeler: till 1hr:- rs10
+                after 1 hr:- additional rs5
+    
+    4 wheeler: till 1 hr:- rs20
+                after 1 hr:- additional rs10
